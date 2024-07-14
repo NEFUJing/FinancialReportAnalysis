@@ -5,7 +5,6 @@
 </p>
 <p align="center">
   你好啊，我虽然长得像个羊驼，但我不是大模型，就是最简单的文本分类代码，哈哈哈哈！！<br>
-  见过长得这么可爱的羊驼么？
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
