@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   你好啊，我虽然长得像个羊驼，但我不是大模型，就是最简单的文本分类代码，哈哈哈哈！！<br>
+  任何疑问请联系作者：<a href="mailto:sunjingyun@nefu.edu.cn" style="color: blue; text-decoration: underline;">sunjingyun@nefu.edu.cn</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
