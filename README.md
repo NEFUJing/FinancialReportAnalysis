@@ -33,7 +33,7 @@
 
 1. 克隆仓库到本地
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/NEFUJing/FinancialReportAnalysis.git
     ```
 2. 进入项目目录
     ```bash
