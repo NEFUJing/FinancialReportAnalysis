@@ -18,32 +18,15 @@
 - 🎉 欢迎来到 **金融研报分析**！这是一个练手项目，使用最简单的文本分类逻辑。
 - 🔧 基于 **Pytorch** 和 **HuggingFace Transformer** 框架搭建。
 - 📄 包含解析**PDF**文档的代码
-- 📚 包含了 **BERT**、**CNN**、**BiLSTM** 等多个简单的基础模型。
+- 📚 包含了 **BERT**、**CNN**、**BiLSTM**、**Attention**等多个简单的基础模型。
 - ✍️ 每行代码都有**注释**，轻松入门**NLP**。
 
-## 2. 特点
+## 2. 版本
 
-- 🌐 **跨平台支持**：兼容Windows、macOS和Linux
-- 🚀 **简单易学**：代码逻辑简单且整洁
-- 🧩 **可扩展性**：模块化设计，易于扩展和维护
+- torch==
+- transformers==
 
-## 3. 快速开始
+## 3. 数据集
 
-只需简单几步即可开始使用 **金融政策文本分析**：
+未经任何预处理的原始数据（PDF文件）可联系作者获取
 
-1. 克隆仓库到本地
-    ```bash
-    git clone https://github.com/NEFUJing/FinancialReportAnalysis.git
-    ```
-2. 进入项目目录
-    ```bash
-    cd your-repo
-    ```
-3. 安装依赖
-    ```bash
-    npm install
-    ```
-4. 运行项目
-    ```bash
-    npm start
-    ```
